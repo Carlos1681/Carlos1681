@@ -5,8 +5,8 @@ Olá! Eu sou Carlos, um desenvolvedor apaixonado por tecnologia e inovação e a
 
 ## Habilidades
 - Linguagens de Programação: JavaScript, Python e Java
-- Tecnologias Web: HTML, CSS, React, Node.js e Next.js
+- Tecnologias Web: HTML, CSS, React, Next.js, Spring Boot e Flask
 - Banco de Dados: MySQL e MongoDB
 
 ## Contato
-- Email: spjcarlosh@outlook.com
+- Email: spjcarlosh@gmail.com
