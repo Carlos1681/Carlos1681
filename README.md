@@ -4,8 +4,8 @@
 Olá! Eu sou Carlos, um desenvolvedor apaixonado por tecnologia e inovação e adoro explorar novas tecnologias e melhorar minhas habilidades continuamente, tenho alguns projetos de desenvolvimento web e análise de dados.
 
 ## Habilidades
-- Linguagens de Programação: JavaScript, Python e Java
-- Tecnologias Web: HTML, CSS, React, Next.js, Spring Boot e Flask
+- Linguagens de Programação: Java, JavaScript, Python
+- Tecnologias Web: HTML, CSS, React, Next.js, Spring Boot
 - Banco de Dados: H2, MySQL, PostgresSQL e MongoDB
 
 ## Contato
